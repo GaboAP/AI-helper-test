@@ -10,7 +10,9 @@ Tech stack: Laravel 12 (API) + React 19/TypeScript (Vite).
 Monorepo layout:
 
 AI-helper-test/
+
 ├─ backend/   # Laravel API
+
 └─ frontend/  # React + Vite UI
 
 ## Prerequisites
