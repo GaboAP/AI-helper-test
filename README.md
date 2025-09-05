@@ -11,7 +11,6 @@ Monorepo layout:
 
 AI-helper-test/
 ├─ backend/   # Laravel API
-
 └─ frontend/  # React + Vite UI
 
 ## Prerequisites
